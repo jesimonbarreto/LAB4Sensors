@@ -1,4 +1,9 @@
 # Sensores Laboratório de Projetos 4
+
+![Method](https://github.com/jesimonbarreto/Sensors_lab4/blob/main/method.png?raw=true)
+
+
+
 Projeto desenvolvido para disciplina laboratório de projetos 4 no curso de engenharia de sistemas da UFMG.
 
 - lenet_ensemble_main -- Código principal da métodologia, utilizado para dar entrada dos 3 sinais e treinar a rede proposta. É feito um looping responsável pela validação. É um treinamento para cada pessoa presente no dataset (live one subject out).
@@ -12,3 +17,4 @@ São utilizados 3 representações de Acelerometro. A primeira é o link acima (
 
 
 link dos datasets: https://drive.google.com/drive/folders/11RnkBeYauWMzTn1zcp9w1XgH9WPa8LkE?usp=sharing
+
