@@ -1,4 +1,4 @@
-# Sensores Laboratório de Projetos 4
+# Laboratório de Projetos 4: Reconhecimento de atividades humanas baseado em sinais de sensores de movimento vestíveis
 
 ![Method](https://github.com/jesimonbarreto/Sensors_lab4/blob/main/method.png?raw=true)
 
